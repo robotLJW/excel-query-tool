@@ -1,0 +1,10 @@
+bin/
+output
+
+*.iml
+.idea/
+**/*junit.xml
+**/*.exe
+**/*.tgz
+
+go.sum
